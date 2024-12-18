@@ -85,7 +85,6 @@
         });
         Webcam.attach('#my_camera');
     });
-
     function take_snapshot() {
         $("#my_camera").addClass('d-none');
         $("#take_snap").addClass('d-none');
