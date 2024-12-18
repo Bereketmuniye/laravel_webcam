@@ -72,7 +72,6 @@
         </div>
     </form>
 </div>
-
 <script>
     $("#open_camera").click(function() {
         $("#my_camera").removeClass('d-none');
